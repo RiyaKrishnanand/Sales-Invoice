@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "salesCurd", "salesCurd\salesCurd.csproj", "{49E0D75D-222C-45D4-BBAE-F7601E841B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "salesCrud.repository", "salesCrud.repository\salesCrud.repository.csproj", "{64755212-DCB5-4AC1-8901-45600AA274AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E0D75D-222C-45D4-BBAE-F7601E841B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E0D75D-222C-45D4-BBAE-F7601E841B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E0D75D-222C-45D4-BBAE-F7601E841B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E0D75D-222C-45D4-BBAE-F7601E841B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64755212-DCB5-4AC1-8901-45600AA274AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64755212-DCB5-4AC1-8901-45600AA274AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64755212-DCB5-4AC1-8901-45600AA274AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64755212-DCB5-4AC1-8901-45600AA274AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661AFD18-C15A-4FA1-BFCA-8900074E2205}
+	EndGlobalSection
+EndGlobal
